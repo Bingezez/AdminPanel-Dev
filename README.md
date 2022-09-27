@@ -1,4 +1,4 @@
 # AdminPanel-Dev
-Coding by python, RestFul API, Docker, use TCP.
+Coding by Python, RestFul API, Docker, use TCP.
 
 # Documentation
